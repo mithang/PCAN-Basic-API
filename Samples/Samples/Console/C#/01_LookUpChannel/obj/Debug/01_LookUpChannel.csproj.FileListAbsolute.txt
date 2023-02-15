@@ -1,0 +1,6 @@
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/bin/Debug/LookUpChannel.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/bin/Debug/LookUpChannel.pdb
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/obj/Debug/01_LookUpChannel.csproj.AssemblyReference.cache
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/obj/Debug/01_LookUpChannel.csproj.CoreCompileInputs.cache
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/obj/Debug/LookUpChannel.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/01_LookUpChannel/obj/Debug/LookUpChannel.pdb

@@ -1,0 +1,5 @@
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/03_ManualRead/bin/Debug/ManualRead.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/03_ManualRead/bin/Debug/ManualRead.pdb
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/03_ManualRead/obj/Debug/03_ManualRead.csproj.CoreCompileInputs.cache
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/03_ManualRead/obj/Debug/ManualRead.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/03_ManualRead/obj/Debug/ManualRead.pdb

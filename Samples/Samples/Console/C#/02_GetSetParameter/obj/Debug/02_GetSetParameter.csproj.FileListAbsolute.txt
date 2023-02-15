@@ -1,0 +1,5 @@
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/02_GetSetParameter/bin/Debug/GetSetParameter.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/02_GetSetParameter/bin/Debug/GetSetParameter.pdb
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/02_GetSetParameter/obj/Debug/02_GetSetParameter.csproj.CoreCompileInputs.cache
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/02_GetSetParameter/obj/Debug/GetSetParameter.exe
+/Users/mv962/Downloads/PCAN-Basic API/Samples/Samples/Console/C#/02_GetSetParameter/obj/Debug/GetSetParameter.pdb
